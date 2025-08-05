@@ -23,6 +23,9 @@ To build a clean, insightful, and interactive Sales Analytics Dashboard for a fi
 
 ⚙️ Data Model: Clean star schema with proper relationships and measures
 
+Dataset used:
+https://github.com/Mukund90m/Adventure-works-dashboard/tree/main/Adventure_works_dataset
+
 🛠️ Tools & Technologies
 Tool	Purpose
 Power BI Desktop	Data modeling, DAX, visualization
