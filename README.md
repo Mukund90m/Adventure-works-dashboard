@@ -63,4 +63,6 @@ Connect: LinkedIn | Portfolio
 📃 License
 This project is for educational and portfolio purposes only.
 
-Dashboard Preview:- https://github.com/Mukund90m/Adventure-works-dashboard/blob/main/adventure%20works%20dashboard.png
+## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
